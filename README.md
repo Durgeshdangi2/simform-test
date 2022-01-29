@@ -43,7 +43,7 @@ develop => dev environment
 
     set APP_NAME='simform-test'
 
-- Update DB
+- Update DB 
 
     set DB_HOST
     set DB_DATABASE
